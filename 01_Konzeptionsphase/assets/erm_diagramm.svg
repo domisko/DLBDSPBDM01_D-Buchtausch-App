@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 1300 1260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Chen ER-Diagramm der Buchtausch-App mit 11 Entitäten und zwei ternären Beziehungen">
+  <rect x="0" y="0" width="1300" height="1260" fill="#ffffff"/>
+
+  <!-- ===== LINES (drawn first, occluded by shapes on top) ===== -->
+  <g stroke="#1a1a1a" stroke-width="2">
+    <!-- bibliographic binaries -->
+    <line x1="115" y1="72" x2="475" y2="222"/>
+    <line x1="355" y1="72" x2="475" y2="222"/>
+    <line x1="595" y1="72" x2="475" y2="222"/>
+    <line x1="835" y1="72" x2="475" y2="222"/>
+    <!-- Buch-Exemplar -->
+    <line x1="475" y1="222" x2="475" y2="432"/>
+    <!-- Buch-Bewertung -->
+    <line x1="475" y1="222" x2="1115" y2="550"/>
+    <!-- Exemplar-Benutzer (besitzt) -->
+    <line x1="475" y1="432" x2="280" y2="707"/>
+    <line x1="280" y1="707" x2="475" y2="982"/>
+    <!-- Benutzer-Zeitfenster / Abholort / Adresse / Bewertung -->
+    <line x1="475" y1="982" x2="340" y2="780"/>
+    <line x1="475" y1="982" x2="640" y2="780"/>
+    <line x1="475" y1="982" x2="475" y2="1120"/>
+    <line x1="475" y1="982" x2="1115" y2="550"/>
+  </g>
+
+  <!-- ternary lines (amber) -->
+  <g stroke="#b45309" stroke-width="2.5">
+    <!-- AUSLEIHT: Exemplar - Benutzer - Zeitfenster -->
+    <line x1="475" y1="432" x2="475" y2="620"/>
+    <line x1="475" y1="620" x2="475" y2="982"/>
+    <line x1="475" y1="620" x2="340" y2="780"/>
+    <!-- ANGEBOTEN_ALS: Exemplar - Abholort - Zeitfenster -->
+    <line x1="475" y1="432" x2="740" y2="650"/>
+    <line x1="740" y1="650" x2="640" y2="780"/>
+    <line x1="740" y1="650" x2="340" y2="780"/>
+  </g>
+
+  <!-- ===== CARDINALITY LABELS (with white backing) ===== -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+    <!-- geschrieben_von -->
+    <rect x="168" y="88" width="18" height="18" fill="white"/><text x="177" y="102">M</text>
+    <rect x="415" y="163" width="18" height="18" fill="white"/><text x="424" y="177">N</text>
+    <!-- erschienen_bei -->
+    <rect x="378" y="88" width="18" height="18" fill="white"/><text x="387" y="102">1</text>
+    <rect x="432" y="163" width="18" height="18" fill="white"/><text x="441" y="177">N</text>
+    <!-- hat_genre -->
+    <rect x="565" y="88" width="18" height="18" fill="white"/><text x="574" y="102">1</text>
+    <rect x="518" y="163" width="18" height="18" fill="white"/><text x="527" y="177">N</text>
+    <!-- in_sprache -->
+    <rect x="760" y="88" width="18" height="18" fill="white"/><text x="769" y="102">1</text>
+    <rect x="605" y="163" width="18" height="18" fill="white"/><text x="614" y="177">N</text>
+    <!-- ist_ausgabe_von -->
+    <rect x="466" y="255" width="18" height="18" fill="white"/><text x="475" y="269">1</text>
+    <rect x="466" y="385" width="18" height="18" fill="white"/><text x="475" y="399">N</text>
+    <!-- erhaelt -->
+    <rect x="565" y="252" width="18" height="18" fill="white"/><text x="574" y="266">1</text>
+    <rect x="1030" y="500" width="18" height="18" fill="white"/><text x="1039" y="514">N</text>
+    <!-- besitzt -->
+    <rect x="360" y="540" width="18" height="18" fill="white"/><text x="369" y="554">N</text>
+    <rect x="360" y="900" width="18" height="18" fill="white"/><text x="369" y="914">1</text>
+    <!-- hat zeitfenster -->
+    <rect x="430" y="940" width="18" height="18" fill="white"/><text x="439" y="954">1</text>
+    <rect x="367" y="800" width="18" height="18" fill="white"/><text x="376" y="814">N</text>
+    <!-- hat abholort -->
+    <rect x="510" y="940" width="18" height="18" fill="white"/><text x="519" y="954">1</text>
+    <rect x="590" y="800" width="18" height="18" fill="white"/><text x="599" y="814">N</text>
+    <!-- wohnt_an -->
+    <rect x="486" y="1040" width="18" height="18" fill="white"/><text x="495" y="1054">1</text>
+    <rect x="486" y="1075" width="18" height="18" fill="white"/><text x="495" y="1089">1</text>
+    <!-- verfasst -->
+    <rect x="560" y="920" width="18" height="18" fill="white"/><text x="569" y="934">1</text>
+    <rect x="1030" y="600" width="18" height="18" fill="white"/><text x="1039" y="614">N</text>
+  </g>
+
+  <!-- ternary cardinality labels -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#b45309" text-anchor="middle">
+    <rect x="466" y="500" width="18" height="18" fill="white"/><text x="475" y="514">N</text>
+    <rect x="466" y="900" width="18" height="18" fill="white"/><text x="475" y="914">N</text>
+    <rect x="380" y="700" width="18" height="18" fill="white"/><text x="389" y="714">N</text>
+    <rect x="590" y="510" width="18" height="18" fill="white"/><text x="599" y="524">N</text>
+    <rect x="660" y="720" width="18" height="18" fill="white"/><text x="669" y="734">N</text>
+    <rect x="420" y="730" width="18" height="18" fill="white"/><text x="429" y="744">N</text>
+  </g>
+
+  <!-- ===== BINARY RELATIONSHIP DIAMONDS ===== -->
+  <g fill="white" stroke="#1a1a1a" stroke-width="2">
+    <polygon points="295,122 355,147 295,172 235,147"/>
+    <polygon points="415,122 475,147 415,172 355,147"/>
+    <polygon points="535,122 595,147 535,172 475,147"/>
+    <polygon points="655,122 715,147 655,172 595,147"/>
+    <polygon points="475,297 535,327 475,357 415,327"/>
+    <polygon points="795,356 865,386 795,416 725,386"/>
+    <polygon points="280,677 350,707 280,737 210,707"/>
+    <polygon points="407,851 477,881 407,911 337,881"/>
+    <polygon points="557,851 627,881 557,911 487,881"/>
+    <polygon points="475,1021 535,1051 475,1081 415,1051"/>
+    <polygon points="795,736 865,766 795,796 725,766"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1a1a1a" text-anchor="middle">
+    <text x="295" y="151">geschrieben_von</text>
+    <text x="415" y="151">erschienen_bei</text>
+    <text x="535" y="151">hat</text>
+    <text x="655" y="151">in_sprache</text>
+    <text x="475" y="331">ist_ausgabe_von</text>
+    <text x="795" y="390">erhält</text>
+    <text x="280" y="711">besitzt</text>
+    <text x="407" y="885">hat</text>
+    <text x="557" y="885">hat</text>
+    <text x="475" y="1055">wohnt_an</text>
+    <text x="795" y="770">verfasst</text>
+  </g>
+
+  <!-- ===== TERNARY RELATIONSHIP DIAMONDS (highlighted) ===== -->
+  <g fill="#fff7e6" stroke="#b45309" stroke-width="3">
+    <polygon points="475,570 555,620 475,670 395,620"/>
+    <polygon points="740,600 830,650 740,700 650,650"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#7c3400" text-anchor="middle">
+    <text x="475" y="616">AUSLEIHT</text>
+    <text x="475" y="630">(ternär)</text>
+    <text x="740" y="646">ANGEBOTEN_ALS</text>
+    <text x="740" y="660">(ternär)</text>
+  </g>
+
+  <!-- ===== ENTITY BOXES ===== -->
+  <g fill="white" stroke="#1a1a1a" stroke-width="2.5">
+    <rect x="40" y="40" width="150" height="64" rx="6"/>
+    <rect x="280" y="40" width="150" height="64" rx="6"/>
+    <rect x="520" y="40" width="150" height="64" rx="6"/>
+    <rect x="760" y="40" width="150" height="64" rx="6"/>
+    <rect x="400" y="190" width="150" height="64" rx="6"/>
+    <rect x="400" y="400" width="150" height="64" rx="6"/>
+    <rect x="1040" y="518" width="150" height="64" rx="6"/>
+    <rect x="265" y="748" width="150" height="64" rx="6"/>
+    <rect x="565" y="748" width="150" height="64" rx="6"/>
+    <rect x="400" y="950" width="150" height="64" rx="6"/>
+    <rect x="400" y="1088" width="150" height="64" rx="6"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#1a1a1a" text-anchor="middle">
+    <text x="115" y="76">Autor</text>
+    <text x="355" y="76">Verlag</text>
+    <text x="595" y="76">Genre</text>
+    <text x="835" y="76">Sprache</text>
+    <text x="475" y="226">Buch</text>
+    <text x="475" y="436">Exemplar</text>
+    <text x="1115" y="554">Bewertung</text>
+    <text x="340" y="784">Zeitfenster</text>
+    <text x="640" y="784">Abholort</text>
+    <text x="475" y="986">Benutzer</text>
+    <text x="475" y="1124">Adresse</text>
+  </g>
+
+  <!-- ===== LEGEND ===== -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1a1a1a">
+    <rect x="900" y="900" width="360" height="150" fill="white" stroke="#1a1a1a" stroke-width="1.5"/>
+    <text x="915" y="922" font-weight="bold" font-size="13">Legende (Chen-Notation)</text>
+    <rect x="915" y="935" width="28" height="20" fill="white" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="955" y="950">Entität (Rechteck)</text>
+    <polygon points="929,970 943,980 929,990 915,980" fill="white" stroke="#1a1a1a" stroke-width="2"/>
+    <text x="955" y="985">Beziehung, binär (Raute)</text>
+    <polygon points="929,1010 947,1023 929,1036 911,1023" fill="#fff7e6" stroke="#b45309" stroke-width="2.5"/>
+    <text x="955" y="1028">Dreifachbeziehung / ternär (orange)</text>
+    <text x="915" y="1045" font-style="italic" font-size="11">Zahlen an den Linien = Kardinalität (1, N, M)</text>
+  </g>
+
+  <text x="650" y="1240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#1a1a1a">
+    ER-Modell Buchtausch-App — Chen-Notation
+  </text>
+</svg>
