@@ -1,0 +1,8 @@
+         titel         | erscheinungsjahr |   genre    |     verlag      | sprache  
+-----------------------+------------------+------------+-----------------+----------
+ Backen mit Brot       |             2022 | Kochbuch   | Piper Verlag    | Deutsch
+ Das Echo der Berge    |             2024 | Thriller   | btb Verlag      | Deutsch
+ Der Gartenbriefkasten |             2013 | Kinderbuch | dtv             | Deutsch
+ Der Glasbläser        |             2019 | Roman      | Rowohlt Verlag  | Deutsch
+ Der letzte Leuchtturm |             2014 | Krimi      | Diogenes Verlag | Englisch
+(5 rows)

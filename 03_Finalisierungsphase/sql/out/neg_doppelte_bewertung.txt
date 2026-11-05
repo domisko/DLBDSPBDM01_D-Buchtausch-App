@@ -1,0 +1,2 @@
+ERROR:  duplicate key value violates unique constraint "bewertung_ausleihvorgang_id_key"
+DETAIL:  Key (ausleihvorgang_id)=(1) already exists.

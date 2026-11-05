@@ -1,0 +1,2 @@
+ERROR:  Geplante Leihdauer (31 Tage) ueberschreitet die maximale Leihdauer des Exemplars (10 Tage).
+CONTEXT:  PL/pgSQL function fn_check_ausleihvorgang() line 16 at RAISE

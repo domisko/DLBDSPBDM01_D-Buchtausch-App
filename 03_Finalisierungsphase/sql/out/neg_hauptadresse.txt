@@ -1,0 +1,2 @@
+ERROR:  duplicate key value violates unique constraint "ux_adresse_hauptadresse"
+DETAIL:  Key (benutzer_id)=(1) already exists.

@@ -1,0 +1,2 @@
+ERROR:  Abholort 9 gehoert nicht zur besitzenden Person von Exemplar 8.
+CONTEXT:  PL/pgSQL function fn_check_angebot_besitzer() line 7 at RAISE

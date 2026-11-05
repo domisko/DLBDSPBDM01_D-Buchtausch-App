@@ -1,0 +1,8 @@
+ benutzer_id | vorname | nachname |           email            | registrierdatum 
+-------------+---------+----------+----------------------------+-----------------
+           1 | Lena    | Vogt     | lena.vogt@example.com      | 2025-01-04
+           2 | Karsten | Brandt   | karsten.brandt@example.com | 2025-01-07
+           3 | Mira    | Falk     | mira.falk@example.com      | 2025-01-10
+           4 | Jonas   | Hoffmann | jonas.hoffmann@example.com | 2025-01-13
+           5 | Selin   | Aydin    | selin.aydin@example.com    | 2025-01-16
+(5 rows)

@@ -1,0 +1,2 @@
+ERROR:  new row for relation "verfuegbarkeitszeitfenster" violates check constraint "chk_zeitfenster_reihenfolge"
+DETAIL:  Failing row contains (38, 1, Montag, 12:00:00, 10:00:00).

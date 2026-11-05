@@ -1,0 +1,8 @@
+ abholort_id |         bezeichnung          |       stadt       | breitengrad | laengengrad 
+-------------+------------------------------+-------------------+-------------+-------------
+           1 | Treffpunkt Berlin            | Berlin            |   52.524000 |   13.409000
+           2 | Treffpunkt Hamburg           | Hamburg           |   53.555000 |    9.998000
+           3 | Treffpunkt München           | München           |   48.141000 |   11.580000
+           4 | Treffpunkt Köln              | Köln              |   50.942000 |    6.964000
+           5 | Treffpunkt Frankfurt am Main | Frankfurt am Main |   50.114000 |    8.686000
+(5 rows)

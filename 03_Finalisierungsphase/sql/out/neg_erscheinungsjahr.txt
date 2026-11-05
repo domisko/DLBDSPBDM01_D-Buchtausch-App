@@ -1,0 +1,2 @@
+ERROR:  erscheinungsjahr 2090 liegt zu weit in der Zukunft (maximal naechstes Jahr erlaubt).
+CONTEXT:  PL/pgSQL function fn_check_erscheinungsjahr() line 5 at RAISE

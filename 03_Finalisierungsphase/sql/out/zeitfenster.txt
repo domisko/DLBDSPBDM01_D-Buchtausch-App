@@ -1,0 +1,8 @@
+ zeitfenster_id | benutzer_id | wochentag  | startzeit | endzeit  
+----------------+-------------+------------+-----------+----------
+              1 |           1 | Montag     | 09:00:00  | 11:00:00
+              2 |           2 | Dienstag   | 17:00:00  | 19:00:00
+              3 |           3 | Mittwoch   | 09:00:00  | 11:00:00
+              4 |           4 | Donnerstag | 17:00:00  | 19:00:00
+              5 |           5 | Freitag    | 09:00:00  | 11:00:00
+(5 rows)

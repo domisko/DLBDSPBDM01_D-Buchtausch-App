@@ -1,0 +1,2 @@
+ERROR:  Spalte exemplar.besitzer_id ist unveraenderlich (Aenderung wuerde Zuordnungen von Angeboten/Ausleihen ungueltig machen).
+CONTEXT:  PL/pgSQL function fn_spalte_unveraenderlich() line 4 at RAISE

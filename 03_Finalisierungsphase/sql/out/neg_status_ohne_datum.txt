@@ -1,0 +1,2 @@
+ERROR:  new row for relation "ausleihvorgang" violates check constraint "chk_ausleih_status_rueckgabe"
+DETAIL:  Failing row contains (28, 26, 4, 15, 2026-10-22, 2026-11-05, null, zurueckgegeben).

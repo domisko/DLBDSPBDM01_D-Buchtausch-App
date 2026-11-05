@@ -1,0 +1,28 @@
+          tabelle           | eintraege | groesse 
+----------------------------+-----------+---------
+ abholort                   |        24 | 40 kB
+ adresse                    |        30 | 56 kB
+ angebot                    |        36 | 56 kB
+ ausleihvorgang             |        30 | 56 kB
+ autor                      |        20 | 24 kB
+ benutzer                   |        24 | 40 kB
+ bewertung                  |        20 | 48 kB
+ buch                       |        24 | 72 kB
+ buch_autor                 |        30 | 24 kB
+ exemplar                   |        32 | 56 kB
+ genre                      |        12 | 40 kB
+ sprache                    |        12 | 40 kB
+ verfuegbarkeitszeitfenster |        36 | 24 kB
+ verlag                     |        12 | 40 kB
+(14 Zeilen)
+
+ tabellen | eintraege_gesamt | datenbankgroesse | tabellen_inkl_indizes 
+----------+------------------+------------------+-----------------------
+       14 |              342 | 8695 kB          | 616 kB
+(1 Zeile)
+
+ primaerschluessel | fremdschluessel | unique_constraints | check_constraints | indizes | trigger_gesamt | funktionen 
+-------------------+-----------------+--------------------+-------------------+---------+----------------+------------
+                14 |              17 |                  7 |                16 |      31 |              8 |          6
+(1 Zeile)
+

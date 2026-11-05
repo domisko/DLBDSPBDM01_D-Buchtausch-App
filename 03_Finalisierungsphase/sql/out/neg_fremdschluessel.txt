@@ -1,0 +1,2 @@
+ERROR:  insert or update on table "exemplar" violates foreign key constraint "exemplar_buch_id_fkey"
+DETAIL:  Key (buch_id)=(9999) is not present in table "buch".

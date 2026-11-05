@@ -1,0 +1,9 @@
+ angebot_id |         titel         |       stadt       | aktiv 
+------------+-----------------------+-------------------+-------
+          1 | Der Winterpfad        | Berlin            | t
+          2 | Mord im Nebel         | Hamburg           | t
+          3 | Die Drachenkönigin    | München           | t
+          4 | Wege durch die Stille | Köln              | t
+          5 | Der letzte Leuchtturm | Frankfurt am Main | t
+          6 | Sternenstaub          | Stuttgart         | t
+(6 rows)

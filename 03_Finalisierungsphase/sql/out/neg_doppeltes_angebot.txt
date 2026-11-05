@@ -1,0 +1,2 @@
+ERROR:  duplicate key value violates unique constraint "angebot_exemplar_id_abholort_id_zeitfenster_id_key"
+DETAIL:  Key (exemplar_id, abholort_id, zeitfenster_id)=(1, 1, 1) already exists.

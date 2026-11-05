@@ -1,0 +1,7 @@
+                  regel                  | verstoesse 
+-----------------------------------------+------------
+ mehrere offene Ausleihen je Exemplar    |          0
+ Leihdauer ueber max_leihdauer_tage      |          0
+ Zeitfenster gehoert nicht zum Besitzer  |          0
+ Bewertung ohne zurueckgegebene Ausleihe |          0
+(4 rows)

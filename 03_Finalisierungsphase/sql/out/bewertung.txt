@@ -1,0 +1,9 @@
+         titel         | durchschnitt | anzahl 
+-----------------------+--------------+--------
+ Der Gartenbriefkasten |          5.0 |      1
+ Der Winterpfad        |          5.0 |      1
+ Die Drachenkönigin    |          5.0 |      1
+ Die Uhrmacherin       |          5.0 |      1
+ Heimat im Sturm       |          5.0 |      1
+ Mondfinsternis        |          5.0 |      1
+(6 rows)

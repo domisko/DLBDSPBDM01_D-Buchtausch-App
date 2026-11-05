@@ -1,0 +1,2 @@
+ERROR:  Zeitfenster 31 ist fuer Exemplar 7 nicht als Angebot eingerichtet.
+CONTEXT:  PL/pgSQL function fn_check_ausleihvorgang() line 28 at RAISE

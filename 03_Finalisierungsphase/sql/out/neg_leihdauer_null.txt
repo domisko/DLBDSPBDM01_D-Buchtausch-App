@@ -1,0 +1,2 @@
+ERROR:  new row for relation "exemplar" violates check constraint "exemplar_max_leihdauer_tage_check"
+DETAIL:  Failing row contains (35, 1, 1, gut, f, 0, 2026-11-05).

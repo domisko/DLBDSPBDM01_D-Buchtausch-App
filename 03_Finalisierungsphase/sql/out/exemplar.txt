@@ -1,0 +1,8 @@
+ exemplar_id |         titel         |  besitzer_in   |  zustand  | max_leihdauer_tage 
+-------------+-----------------------+----------------+-----------+--------------------
+           1 | Der Winterpfad        | Lena Vogt      | sehr gut  |                 14
+           2 | Mord im Nebel         | Karsten Brandt | gut       |                 21
+           3 | Die Drachenkönigin    | Mira Falk      | gebraucht |                 28
+           4 | Wege durch die Stille | Jonas Hoffmann | neu       |                 30
+           5 | Der letzte Leuchtturm | Selin Aydin    | sehr gut  |                 10
+(5 rows)

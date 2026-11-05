@@ -1,0 +1,2 @@
+ERROR:  duplicate key value violates unique constraint "ux_ausleihvorgang_offen_je_exemplar"
+DETAIL:  Key (exemplar_id)=(24) already exists.

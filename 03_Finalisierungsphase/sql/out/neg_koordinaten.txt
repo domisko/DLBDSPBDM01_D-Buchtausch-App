@@ -1,0 +1,2 @@
+ERROR:  new row for relation "abholort" violates check constraint "chk_abholort_breitengrad"
+DETAIL:  Failing row contains (26, 1, Testort, Weg 1, 10115, Berlin, 95.000000, 13.400000).

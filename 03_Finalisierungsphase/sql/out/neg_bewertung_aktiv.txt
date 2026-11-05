@@ -1,0 +1,2 @@
+ERROR:  Bewertung nur fuer abgeschlossene (zurueckgegebene) Ausleihvorgaenge moeglich (ausleihvorgang_id=28).
+CONTEXT:  PL/pgSQL function fn_check_bewertung_nur_abgeschlossen() line 9 at RAISE

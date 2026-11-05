@@ -1,0 +1,2 @@
+ERROR:  Ein Exemplar kann nicht von der besitzenden Person selbst ausgeliehen werden (exemplar_id=1).
+CONTEXT:  PL/pgSQL function fn_check_ausleihvorgang() line 11 at RAISE

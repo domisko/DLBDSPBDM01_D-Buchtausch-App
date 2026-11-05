@@ -1,0 +1,11 @@
+ genre_id | bezeichnung 
+----------+-------------
+        1 | Roman
+        2 | Krimi
+        3 | Fantasy
+        4 | Sachbuch
+        5 | Biografie
+        6 | Kinderbuch
+        7 | Lyrik
+        8 | Thriller
+(8 rows)

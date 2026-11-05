@@ -1,0 +1,8 @@
+      titel       |  stadt  | entfernung_km 
+------------------+---------+---------------
+ Der Winterpfad   | Berlin  |           0.5
+ Die Uhrmacherin  | Leipzig |         148.5
+ Der Winterpfad   | Dresden |         164.7
+ Die Uhrmacherin  | Dresden |         164.7
+ Pixel und Papier | Rostock |         195.4
+(5 rows)

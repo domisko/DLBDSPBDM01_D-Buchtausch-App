@@ -1,0 +1,2 @@
+ERROR:  Ausleihvorgang 1 wurde bereits bewertet und kann nicht auf Status aktiv zurueckgesetzt werden.
+CONTEXT:  PL/pgSQL function fn_check_status_nach_bewertung() line 5 at RAISE

@@ -1,0 +1,9 @@
+       titel        |          autor_innen           
+--------------------+--------------------------------
+ Das Echo der Berge | Lea Winter, Carla Reimann
+ Der Glasbläser     | Samuel Kern, Hannes Rott
+ Die Drachenkönigin | Carla Reimann, Sofie Lindqvist
+ Die Kartografin    | Konrad Salm, Rebecca Thorn
+ Die letzte Fähre   | Jens Dornbusch, Viktor Ruppert
+ Salz und Meer      | Nadine Fuchs, Lea Winter
+(6 rows)

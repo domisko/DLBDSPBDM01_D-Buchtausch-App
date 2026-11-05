@@ -1,0 +1,8 @@
+ sprache_id | bezeichnung | iso_code 
+------------+-------------+----------
+          1 | Deutsch     | de
+          2 | Englisch    | en
+          3 | Französisch | fr
+         12 | Griechisch  | el
+          5 | Italienisch | it
+(5 rows)

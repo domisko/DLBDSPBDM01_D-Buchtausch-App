@@ -1,0 +1,2 @@
+ERROR:  Zeitfenster 2 gehoert nicht zur besitzenden Person von Exemplar 6.
+CONTEXT:  PL/pgSQL function fn_check_ausleihvorgang() line 22 at RAISE

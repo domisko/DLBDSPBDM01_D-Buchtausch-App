@@ -1,0 +1,5 @@
+ vorname | nachname |       stadt       | ist_hauptadresse 
+---------+----------+-------------------+------------------
+ Lena    | Vogt     | Berlin            | t
+ Lena    | Vogt     | Wasserburg am Inn | f
+(2 rows)

@@ -1,0 +1,9 @@
+ ausleihvorgang_id |           titel            |  entleiher_in  | ausleihdatum |    status    
+-------------------+----------------------------+----------------+--------------+--------------
+                30 | Wege durch die Stille      | Tobias Stein   | 2026-10-24   | aktiv
+                29 | Die Drachenkönigin         | Marek Kowalski | 2026-10-23   | aktiv
+                28 | Mord im Nebel              | Jonas Hoffmann | 2026-10-22   | aktiv
+                27 | Der Winterpfad             | Emre Yilmaz    | 2026-10-21   | aktiv
+                26 | Die letzte Fähre           | Anna Schreiber | 2026-10-20   | aktiv
+                25 | Kleiner Drache, großer Mut | Mira Falk      | 2026-09-17   | ueberfaellig
+(6 rows)

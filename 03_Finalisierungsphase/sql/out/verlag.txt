@@ -1,0 +1,8 @@
+ verlag_id |        name        |    land     
+-----------+--------------------+-------------
+        11 | Aufbau Verlag      | Deutschland
+         9 | btb Verlag         | Deutschland
+        12 | Carl Hanser Verlag | Deutschland
+         5 | Diogenes Verlag    | Schweiz
+         3 | dtv                | Deutschland
+(5 rows)

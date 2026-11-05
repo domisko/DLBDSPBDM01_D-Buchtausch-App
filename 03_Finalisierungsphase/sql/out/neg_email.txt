@@ -1,0 +1,2 @@
+ERROR:  duplicate key value violates unique constraint "benutzer_email_key"
+DETAIL:  Key (email)=(lena.vogt@example.com) already exists.
