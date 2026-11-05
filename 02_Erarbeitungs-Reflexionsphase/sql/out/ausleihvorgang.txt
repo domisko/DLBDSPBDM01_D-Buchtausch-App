@@ -1,0 +1,10 @@
+ ausleihvorgang_id |         titel         |  entleiher_in  | ausleihdatum |     status     
+-------------------+-----------------------+----------------+--------------+----------------
+                 1 | Der Winterpfad        | Mira Falk      | 2026-07-26   | zurueckgegeben
+                 2 | Mord im Nebel         | Jonas Hoffmann | 2026-07-28   | zurueckgegeben
+                 3 | Die Drachenkönigin    | Selin Aydin    | 2026-07-30   | zurueckgegeben
+                 4 | Wege durch die Stille | Paul Krause    | 2026-08-01   | zurueckgegeben
+                 5 | Der letzte Leuchtturm | Anna Schreiber | 2026-08-03   | zurueckgegeben
+                 6 | Sternenstaub          | Tom Weidner    | 2026-08-05   | zurueckgegeben
+(6 Zeilen)
+

@@ -1,0 +1,9 @@
+      titel      |  stadt   |     bezeichnung     | entfernung_km 
+-----------------+----------+---------------------+---------------
+ Der Winterpfad  | Berlin   | Treffpunkt Berlin   |           1.9
+ Die Uhrmacherin | Leipzig  | Treffpunkt Leipzig  |         149.2
+ Salz und Meer   | Hannover | Treffpunkt Hannover |         249.0
+ Mord im Nebel   | Hamburg  | Treffpunkt Hamburg  |         255.3
+ Kleine Fluchten | Hamburg  | Treffpunkt Hamburg  |         257.7
+(5 Zeilen)
+

@@ -1,0 +1,9 @@
+ verlag_id |         name         |    land     
+-----------+----------------------+-------------
+         9 | btb Verlag           | Deutschland
+         5 | Diogenes Verlag      | Schweiz
+         3 | dtv                  | Deutschland
+         7 | Heyne Verlag         | Deutschland
+        10 | Kiepenheuer & Witsch | Deutschland
+(5 Zeilen)
+

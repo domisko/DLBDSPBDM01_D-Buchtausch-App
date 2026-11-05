@@ -1,0 +1,9 @@
+ sprache_id |  bezeichnung   | iso_code 
+------------+----------------+----------
+          1 | Deutsch        | de
+          2 | Englisch       | en
+          3 | Französisch    | fr
+          5 | Italienisch    | it
+          6 | Niederländisch | nl
+(5 Zeilen)
+

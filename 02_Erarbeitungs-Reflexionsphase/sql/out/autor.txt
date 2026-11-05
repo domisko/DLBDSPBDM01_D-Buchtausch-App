@@ -1,0 +1,6 @@
+       titel        |          autor_innen           
+--------------------+--------------------------------
+ Salz und Meer      | Nadine Fuchs, Lea Winter
+ Die Drachenkönigin | Carla Reimann, Sofie Lindqvist
+(2 Zeilen)
+

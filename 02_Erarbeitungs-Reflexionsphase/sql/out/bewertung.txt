@@ -1,0 +1,10 @@
+       titel        | durchschnitt | anzahl_bewertungen 
+--------------------+--------------+--------------------
+ Die Uhrmacherin    |          5.0 |                  1
+ Die Drachenkönigin |          5.0 |                  1
+ Sternenstaub       |          5.0 |                  1
+ Der Winterpfad     |          5.0 |                  1
+ Salz und Meer      |          4.0 |                  1
+ Mord im Nebel      |          4.0 |                  1
+(6 Zeilen)
+

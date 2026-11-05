@@ -1,0 +1,9 @@
+         titel         | erscheinungsjahr |   genre    |     verlag      | sprache  
+-----------------------+------------------+------------+-----------------+----------
+ Der Gartenbriefkasten |             2013 | Kinderbuch | dtv             | Deutsch
+ Der letzte Leuchtturm |             2014 | Krimi      | Diogenes Verlag | Englisch
+ Der Winterpfad        |             2018 | Roman      | Rowohlt Verlag  | Deutsch
+ Die Drachenkönigin    |             2016 | Fantasy    | dtv             | Deutsch
+ Die Uhrmacherin       |             2017 | Thriller   | Klett-Cotta     | Deutsch
+(5 Zeilen)
+

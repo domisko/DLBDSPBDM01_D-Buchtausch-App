@@ -1,0 +1,9 @@
+ abholort_id |         bezeichnung          |       stadt       
+-------------+------------------------------+-------------------
+           1 | Treffpunkt Berlin            | Berlin
+           2 | Treffpunkt Hamburg           | Hamburg
+           3 | Treffpunkt München           | München
+           4 | Treffpunkt Köln              | Köln
+           5 | Treffpunkt Frankfurt am Main | Frankfurt am Main
+(5 Zeilen)
+
